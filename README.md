@@ -16,7 +16,7 @@ I explore new technologies, refine my craft, and work on transforming ideas into
 
 ## ✨ About Me
 
-I’m a growing **Full-Stack Developer** and the founder of **Zelam**, a creative SaaS-focused digital agency.  
+I’m **Full-Stack Developer** and the founder of **Zelam**, a creative SaaS-focused digital agency.  
 My work blends clean UI design, smooth user experiences, and strong technical foundations.
 
 What drives me:
