@@ -6,14 +6,6 @@
   <em>🚀 SaaS & Digital Agency — Build Fast. Build Beautiful. Build Smart.</em>
 </p>
 
-# 👋 Hi, I'm Yeabsira Getachew 
-### CEO & Founder of **Zelam** • Full-Stack Developer • SaaS Builder
-
-am passionate about crafting beautiful interfaces, scalable systems, and modern digital products.  
-I explore new technologies, refine my craft, and work on transforming ideas into real, functional SaaS solutions.
-
----
-
 ## ✨ About Me
 
 I’m **Full-Stack Developer** and the founder of **Zelam**, a creative SaaS-focused digital agency.  
